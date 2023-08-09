@@ -1,7 +1,7 @@
 name: introduction
 description: introduction carousel widget that takes images and texts and shows them inside a dialog.
 homepage: https://github.com/marwakarakiii/introduction
-version: 1.0.1
+version: 1.0.2
 
 environment:
   sdk: ">=3.0.5 <4.0.0"

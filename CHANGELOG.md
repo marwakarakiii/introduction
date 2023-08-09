@@ -1,3 +1,8 @@
+
+## 1.0.2
+
+- `fixed read me and images`
+
 ## 1.0.1
 
 - `added textyle, padding`

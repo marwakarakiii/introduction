@@ -2,6 +2,6 @@
 
 Carousel of images and texts and dialog
 
-![Screenshot](a.jpeg)
-![Screenshot](b.jpeg)
-![Screenshot](c.jpeg)
+![Screenshot](https://github.com/marwakarakiii/introduction/blob/main/a.jpeg)
+![Screenshot](https://github.com/marwakarakiii/introduction/blob/main/b.jpeg)
+![Screenshot](https://github.com/marwakarakiii/introduction/blob/main/c.jpeg)
